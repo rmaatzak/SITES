@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
+/* cabeçalho */
+
+header{
+height: 48px ;
+display: flex;
+justify-content: space-between;
+background-color: #1D0F6E;
+color: white;
+align-items: center;
+} 
+
+.header{
+   font-size: 20px;
+   font-weight: 400;
+   margin-left: 130px;
+   margin-right:130px;
+}
+
+/* fim do cabeçalho */
+
+/* começo do main */
+/* COMEÇO DA SECTION AVIÃO */
+
+.aviao{
+    background-image: url(img/aviao.png);
+    height: 680px;
+}
+
+h2{
+    font-size: 96px;
+    text-align: center;
+    padding-top: 80px;
+    font-weight: 300;
+    color: white;
+}
+
+/* FIM DA SECTION AVIÃO */
+
+/* COMEÇO DA SECTION VIAGENS */
+
+.h2AZUL{
+    font-size: 70px;
+    text-align: center;
+    padding-top: 80px;
+    font-weight: 400;
+    color: #1D0F6E
+}
+
+img{
+    width: 342px;
+    height: 513px;
+}
+
+.containers{
+    display: flex;
+    margin-right: 40px;
+    margin-left: 40px;
+   justify-content: space-evenly;
+   margin-top: 60px;
+}
+
+.viagem{
+    margin-top: 10px;
+    font-size: 22px;
+    text-align: center;
+    
+}
+
+span{
+    font-size: 15px;
+}
+
+.lugar{
+    border: 5px solid black;
+    border-radius: 15px;
+
+}
+
+/* FIM DAS VIAGENS */
+
+/* COMEÇO DO FIM DO MAIN */
+
+.azul{
+    font-size: 94px;
+    text-align: center;
+    padding-top: 80px;
+    font-weight: 400;
+    color: #1D0F6E;
+    margin-top: 20px;
+}
+
