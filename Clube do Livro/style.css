@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    border: 0;
+   padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ 
+/* CABEÇALHO */
+
+header{
+    height: 528px;
+    background-color: #648769;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.capa{
+    height: 366px;
+    width: 617px;
+    margin-right: 55px;
+    margin-top:10px ;
+}
+
+h1{
+    font-size: 100px;
+    font-weight: 700;
+    color: white;
+    margin-left: 105px;
+    margin-top: 50px;
+}
+
+/* MEIO */
+
+h3{
+    color: black;
+    font-size: 60px;
+    font-weight: 300;
+    width: 900px;
+    margin-left: 150px;
+}
+
+.experiencia{
+    height:450px;
+    display: flex;
+    align-items: center;
+}
+
+span{
+    color: #2A5B31;
+    font-weight: 600;
+}
+
+/* AINDA MEIO BUT BLOQUINHOS */
+
+.caixaPeq{
+    height: 150px;
+}
+
+.caixa{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.caixa1{
+width: 280px;
+margin-left: 70px;
+}
+
+p{
+    font-size: 30px;
+    text-align: left;
+    margin-top: 10px;
+}
+
+h4{
+    font-size: 35px;
+    margin-top: 15px;
+}
+
+footer{
+    height: 504px;
+    background-color: #648769;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 80px;
+}
+
+h2{
+    font-size: 100px;
+    font-weight: 700;
+    color: white;
+    margin-left: 190px;
+}
+

@@ -1,0 +1,105 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 0;
+    margin: 0;
+    
+}
+header{
+display: flex;
+background-color: #eca457;
+height: 300px;
+justify-content: space-between;
+align-items: center;
+}
+.fundo img{
+    width: 100%;
+}
+.fundo h2{
+display: flex;
+justify-content: center;
+}
+.escopo1{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    font-size: 30px;
+}
+.escopo2{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    font-size: 30px;
+}
+section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+}
+.blog{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    color: #eca457;
+}
+footer{
+    display: flex;
+    background-color: #eca457;
+    justify-content: center;
+    height: 200px;
+}
+section img{
+    height: 200px;
+    margin-right: 20px;
+}
+section h3{
+    display: flex;
+
+}
+.fundo p{
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    font-size: 30px;
+    margin: 150px;
+}
+.fundo h2{
+    display: flex;
+    font-size: 80px;
+    height: 150px;
+    align-items: center;
+    color: #eca457;
+}
+.FRANGO{
+    display: flex;
+    align-items: center;
+    width: 450px;
+}
+.bolo{
+    display: flex;
+    align-items: center;
+    width: 450px;
+}
+.PEIXE{
+    display: flex;
+    align-items: center;
+    width: 450px;
+}
+.pao{
+    display: flex;
+    align-items: center;
+    width: 450px;
+}
+header img{
+    height: 300px;
+}
+a{
+    text-decoration: none;
+    margin: 0 50px;
+    color: white;
+    font-size: 30px;
+}
+
+html{
+    scroll-behavior: smooth;
+}
